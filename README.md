@@ -1,4 +1,4 @@
-Hello there you nerds. I can barely code in C and JavaScript, and when i do it looks like shit. I (attempt) to code because i want to make the money when i grow up.
+Hello there you nerds.
 
 <!---
 wyvernsarecooler/wyvernsarecooler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
