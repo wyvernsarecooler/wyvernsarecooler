@@ -9,7 +9,7 @@ public:
 		happiness = x;
 		health = y;
 	};
-	~myLife();
+//	~myLife();
 	
 	void struggle() {
 		std::cout << "pain";
