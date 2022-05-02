@@ -1,3 +1,5 @@
 *.o
 helpme
-
+*.jar
+out
+*.class
