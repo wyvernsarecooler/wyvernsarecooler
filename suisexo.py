@@ -4,3 +4,5 @@ A = int(input("favorite sexual/romantic relationship age"))
     print("safe")
     else:
       print("boone")
+
+      # duck you have no cs degrees smh
