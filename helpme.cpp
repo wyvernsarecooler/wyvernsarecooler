@@ -12,15 +12,19 @@ public:
 	~myLife();
 	
 	void struggle() {
-		std::cout << "pain"
-	};
+		std::cout << "pain";
+	}
+
+    	bool getHappiness() {
+        	return happiness;
+    }
 };
 	
 
 int main(void) {
 	myLife life(false, 0);
 
-	if (happiness == NULL || false) {
+	if (life.getHappiness() == NULL || false) {
 		life.struggle();
 	} else {
 		life.struggle();
