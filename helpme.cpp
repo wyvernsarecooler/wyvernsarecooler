@@ -1,4 +1,4 @@
-if hppiness == NULL || false)
+if happiness == NULL || false) {
 	life.struggle;
 } else {
 	life.struggle;
