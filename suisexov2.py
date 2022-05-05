@@ -1,4 +1,4 @@
-A = int(input("/romantic relationship age"))
+A = int(input("favorite sexual/romantic relationship age"))
 
   while A != 0:
     if A < 1:
