@@ -16,7 +16,7 @@ A = int(input("favorite sexual/romantic relationship age"))
       age = "legal"
       print((A, age))
       else:
-# duck istg indent your else properly you braces semicolon hater. This is why you are bitchless.
+# duck istg indent your else properly, you braces and semicolon hater. This is why you are bitchless.
         print("either legal, or unrealistic")
         
        A = int(input("introduce 0"))
