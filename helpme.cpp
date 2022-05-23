@@ -1,4 +1,5 @@
 #include <iostream>
+#include <memory>
 #define NULL false
 
 class myLife {
@@ -25,11 +26,11 @@ public:
     
 
 int main(void) {
-    myLife life(false, 0);
+    std::unique_ptr<myLife> life(new myLife(false, 0));
 
-    if (life.getHappiness() == NULL || false) {
-        life.struggle();
+    if (life->getHappiness() == NULL || false) {
+        life->struggle();
     } else {
-        life.struggle();
+        life->struggle();
     }
 }
