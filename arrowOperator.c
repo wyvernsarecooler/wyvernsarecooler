@@ -13,6 +13,6 @@ int main(int argc, char *argv[]) {
 
     theo->theosOpinion = "theo loves the arrow operator! (scope resolution is also an operator)";
 
-    printf("%d", theo->theosOpinion);
+    printf("%s", theo->theosOpinion);
   return 0;
 }
